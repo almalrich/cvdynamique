@@ -1,18 +1,19 @@
 #moncv
 {
+    padding: 2%;
     width: 80%;
     height: 80%;
-    margin: 10%;
+    margin:10%;
     background: url("https://wai.bnpparibas/wp-content/uploads/2017/02/PHP-Java-CSS-Flat-Developpeur-web-IC.jpg");
-
+    background-size: contain;
+    font-size: 1.5vw;
 }
 
 #image
 {
-
     width: 100px;
     height: 100px;
-    position: absolute;
+    float: right;
     margin-left: 60%;
     background: url("Sebastien_Bouret.jpg");
     background-size: 100%;
@@ -20,7 +21,7 @@
 
 h1
 {
-    background-color: chocolate;
+    padding: 2%;
     margin-left:20%;
     position: absolute;
 
@@ -28,8 +29,10 @@ h1
 
 #cadres
 {
-    background-color: indianred;
-    position :absolute;
+
+    padding: 2%;
+    background-color: chocolate;
+
     margin-left: 10%;
     margin-top: 7%;
     min-width: 150px;
@@ -38,20 +41,45 @@ h1
 }
 #cadreb
 {
+    padding: 2%;
     background-color: indianred;
-    position: absolute;
+
     margin-left: 10%;
-    margin-top: 15%;
+    margin-top: 7%;
     min-width: 150px;
 
 }
 
 #cadrec
 {
+    padding: 2%;
     background-color: darkcyan;
-    position: absolute;
+
     margin-left: 10%;
-    margin-top: 25%;
+    margin-top: 7%;
     min-width: 150px;
 
+}
+
+#expro
+{
+    Font-Weight: Bold;
+    text-decoration: underline;
+}
+
+#diplomes
+{
+    Font-Weight: Bold;
+    text-decoration: underline;
+}
+
+#competences
+{
+    Font-Weight: Bold;
+    text-decoration: underline;
+}
+
+.bout
+{
+    Font-Weight: Bold;
 }
