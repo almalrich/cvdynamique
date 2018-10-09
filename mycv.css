@@ -1,0 +1,57 @@
+#moncv
+{
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    background: url("https://wai.bnpparibas/wp-content/uploads/2017/02/PHP-Java-CSS-Flat-Developpeur-web-IC.jpg");
+
+}
+
+#image
+{
+
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 60%;
+    background: url("Sebastien_Bouret.jpg");
+    background-size: 100%;
+}
+
+h1
+{
+    background-color: chocolate;
+    margin-left:20%;
+    position: absolute;
+
+}
+
+#cadres
+{
+    background-color: indianred;
+    position :absolute;
+    margin-left: 10%;
+    margin-top: 7%;
+    min-width: 150px;
+
+
+}
+#cadreb
+{
+    background-color: indianred;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 15%;
+    min-width: 150px;
+
+}
+
+#cadrec
+{
+    background-color: darkcyan;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 25%;
+    min-width: 150px;
+
+}
